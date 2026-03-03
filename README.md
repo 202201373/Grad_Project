@@ -1,4 +1,4 @@
-# VitalCare - Medical Mobile Application
+# CardiGo - Medical Mobile Application
 
 A comprehensive medical mobile application built with Django REST Framework and React Native.
 
@@ -39,9 +39,9 @@ A comprehensive medical mobile application built with Django REST Framework and 
 ## Project Structure
 
 ```
-VitalCare/
+CardiGo/
 ├── backend/              # Django backend
-│   ├── vitalcare/       # Main Django project
+│   ├── CardiGo/       # Main Django project
 │   ├── users/           # User authentication & profiles
 │   ├── medical/         # Medical records & chatbot
 │   └── requirements.txt
